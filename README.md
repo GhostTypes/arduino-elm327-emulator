@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Platform-Arduino%20UNO%20R4-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Protocol-ELM327-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Connection-Bluetooth%20LE-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-Open%20Source-orange?style=for-the-badge">
 </p>
 
 ---
@@ -16,9 +15,13 @@
   <h2>Quick Start</h2>
 </div>
 
+<div align="center">
+
 1. Flash `emulator.ino` to your Arduino UNO R4
 2. Device advertises as "ELM327 Emulator"
 3. Begin debugging your software
+
+</div>
 
 ---
 
